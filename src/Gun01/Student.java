@@ -7,6 +7,7 @@ public class Student
 
         System.out.println("29 ocak 2023 Github dosyasi");
 
+        System.out.println("nickname ve sifre nasil degisitirilir");
 
 
 
