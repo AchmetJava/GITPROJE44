@@ -9,6 +9,8 @@ public class Student
 
         System.out.println("nickname ve sifre nasil degisitirilir");
 
+        System.out.println("soru sormak icin sordum");
+
 
 
     }
